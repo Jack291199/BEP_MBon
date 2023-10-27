@@ -20,9 +20,6 @@ st.markdown(custom_style, unsafe_allow_html=True)
 
 
 
-
-
-
 selected = option_menu(
     menu_title=None,
     options=["GIỚI THIỆU", "MÂM XÔI", "MENU","LIÊN HỆ"],
@@ -41,16 +38,16 @@ lambanh = lambanh.resize((480, 400))
 mamdo = Image.open("image/mam_do.png")
 mamdo = mamdo.resize((600, 600))
 
-mamvang = Image.open("image/mam_vang.png")
+mamvang = Image.open("image/mamvang.png")
 mamvang = mamvang.resize((600, 600))
 
-mamxanh = Image.open("image/mam_xanh.png")
+mamxanh = Image.open("image/mamxanh.png")
 mamxanh = mam_xanh.resize((600, 600))
 
-mamxanh2 = Image.open("image/mam_xanh2.png")
+mamxanh2 = Image.open("image/mamxanh2.png")
 mamxanh2 = mamxanh2.resize((600, 600))
 
-mamhong = Image.open("image/mam_hong.png")
+mamhong = Image.open("image/mamhong.png")
 mamhong = mamhong.resize((600, 600))
 
 
