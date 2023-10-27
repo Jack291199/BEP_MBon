@@ -99,7 +99,7 @@ if selected == "GIỚI THIỆU":
         image_column, text_column = st.columns((1, 2))
 
         with image_column:
-            st.image(chung_chi)
+            st.image(chungchi)
 
         with text_column:
             st.header("TOP 3 gian hàn xuất sắc nhất tỉnh Quảng Ninh!")
@@ -114,7 +114,7 @@ if selected == "GIỚI THIỆU":
     with st.container():
         image_column, text_column = st.columns((1, 2))
         with image_column:
-            st.image(lam_banh)
+            st.image(lambanh)
         with text_column:
             st.header("BẾP MBon có số lượng khách lớn nhất Quảng Yên")
             st.write("Đối với Quyên thì sự chỉnh chu, chất lượng và uy tín là 3 tiêu chí hàng đầu trong quá trình làm mâm đầy tháng."
