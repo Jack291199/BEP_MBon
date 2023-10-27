@@ -35,20 +35,20 @@ chungchi = chungchi.resize((480, 400))
 lambanh = Image.open("image/gt.lambanh.png")
 lambanh = lambanh.resize((480, 400))
 
-mamdo = Image.open("image/mam_do.png")
-mamdo = mamdo.resize((600, 600))
+mam_do = Image.open("image/mam_do.png")
+mam_do = mam_do.resize((600, 600))
 
-mamvang = Image.open("image/mamvang.png")
-mamvang = mamvang.resize((600, 600))
+mam_vang = Image.open("image/mam_vang.png")
+mam_vang = mam_vang.resize((600, 600))
 
-mamxanh = Image.open("image/mamxanh.png")
-mamxanh = mam_xanh.resize((600, 600))
+mam_xanh = Image.open("image/mam_xanh.png")
+mam_xanh = mam_xanh.resize((600, 600))
 
-mamxanh2 = Image.open("image/mamxanh2.png")
-mamxanh2 = mamxanh2.resize((600, 600))
+mam_xanh2 = Image.open("image/mam_xanh2.png")
+mam_xanh2 = mam_xanh2.resize((600, 600))
 
-mamhong = Image.open("image/mamhong.png")
-mamhong = mamhong.resize((600, 600))
+mam_hong = Image.open("image/mam_hong.png")
+mam_hong = mam_hong.resize((600, 600))
 
 
 
