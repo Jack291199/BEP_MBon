@@ -26,7 +26,7 @@ selected = option_menu(
     icons=["house", "book", "book","telephone"],
     menu_icon="cast",
     default_index=0,
-    orientation="horizontal",
+    orientation="horizontal",)
 
 #------TẤT CẢ ẢNH-----
 chungchi = Image.open("image/gt.chungchi.png")
