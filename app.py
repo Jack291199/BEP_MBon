@@ -30,43 +30,42 @@ selected = option_menu(
     menu_icon="cast",
     default_index=0,
     orientation="horizontal",
-)
 
 #------TẤT CẢ ẢNH-----
-chung_chi = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\gt.chungchi.png")
+chung_chi = Image.open("image/gt.chungchi.png")
 chung_chi = chung_chi.resize((480, 400))
 
-lam_banh = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\gt.lambanh.png")
+lam_banh = Image.open("image/gt.lambanh.png")
 lam_banh = lam_banh.resize((480, 400))
 
-mam_do = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\mam_do.png")
+mam_do = Image.open("image/mam_do.png")
 mam_do = mam_do.resize((600, 600))
 
-mam_vang = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\mam_vang.png")
+mam_vang = Image.open("image/mam_vang.png")
 mam_vang = mam_vang.resize((600, 600))
 
-mam_xanh = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\mam_xanh.png")
+mam_xanh = Image.open("image/mam_xanh.png")
 mam_xanh = mam_xanh.resize((600, 600))
 
-mam_xanh2 = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\mam_xanh2.png")
+mam_xanh2 = Image.open("image/mam_xanh2.png")
 mam_xanh2 = mam_xanh2.resize((600, 600))
 
-mam_hong = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\mam_hong.png")
+mam_hong = Image.open("image/mam_hong.png")
 mam_hong = mam_hong.resize((600, 600))
 
 
 
-menu1 = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\menu1.png")
+menu1 = Image.open("image/menu1.png")
 menu1 = menu1.resize((700, 800))
 
 
-menu2 = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\menu2.png")
+menu2 = Image.open("image/menu2.png")
 menu2 = menu2.resize((700, 800))
 
-menu3 = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\menu3.png")
+menu3 = Image.open("image/menu3.png")
 menu3 = menu3.resize((700, 800))
 
-menu4 = Image.open("C:\\Users\\Administrator\\Desktop\\website\\image\\menu4.png")
+menu4 = Image.open("image/menu4.png")
 menu4 = menu4.resize((700, 800))
 
 
